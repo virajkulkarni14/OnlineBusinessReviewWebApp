@@ -1,0 +1,14 @@
+{
+  "name": "VirajKulkarni_Yelp_ejs_010018515",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "ejs": "*",
+    "express": "^3.2.6",
+    "express-session": "*",
+    "mysql": "*"
+  }
+}
